@@ -1,1 +1,1 @@
-# RShiny-with-Mysql
+# Store Management
